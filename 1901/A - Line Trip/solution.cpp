@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; int main() {	int t;	cin>>t;	while(t--){	    int n;	    int x;	    cin>>n>>x;	    int arr[n];	    for(int i=0;i<n;i++){	        cin>>arr[i];	    }	    int diff=arr[0]-0;	    for(int i=1;i<n;i++){	        diff=max(diff,arr[i]-arr[i-1]);	    }	    	    cout<<max(2 * (x - arr[n-1]),diff)<<"\n";	} }
