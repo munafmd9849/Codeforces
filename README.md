@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 10 |
+| 16 | 11 |
 
 ---
 
@@ -17,11 +17,12 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (5)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (2)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -65,8 +66,10 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 
 ### math
 
@@ -93,6 +96,7 @@
 |---|---------|------------|----------|
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 
 ### strings
 
@@ -100,6 +104,12 @@
 |---|---------|------------|----------|
 | 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 
 ---
 
