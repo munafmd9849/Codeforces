@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 11 |
+| 19 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (7)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
@@ -40,6 +40,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### dp
 
@@ -61,6 +62,7 @@
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### implementation
 
