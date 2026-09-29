@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 11 |
+| 20 | 11 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -71,6 +71,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
@@ -109,6 +110,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 2110B | [Down with Brackets](https://codeforces.com/contest/2110/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2110/B%20-%20Down%20with%20Brackets/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
