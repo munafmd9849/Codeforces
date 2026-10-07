@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 13 |
+| 23 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dfs and similar](#dfs-and-similar) (1)
@@ -27,6 +28,12 @@
 - [two pointers](#two-pointers) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### brute force
 
