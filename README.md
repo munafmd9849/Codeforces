@@ -6,16 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [combinatorics](#combinatorics) (1)
+- [dp](#dp) (1)
 - [geometry](#geometry) (1)
 - [implementation](#implementation) (1)
+- [math](#math) (1)
 
 ---
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275H | [A Problem to Warm Up the Eyebrows](https://codeforces.com/contest/2275/problem/H) | Unrated | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2275/H%20-%20A%20Problem%20to%20Warm%20Up%20the%20Eyebrows/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275H | [A Problem to Warm Up the Eyebrows](https://codeforces.com/contest/2275/problem/H) | Unrated | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2275/H%20-%20A%20Problem%20to%20Warm%20Up%20the%20Eyebrows/solution.cpp) |
 
 ### geometry
 
@@ -28,6 +43,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275H | [A Problem to Warm Up the Eyebrows](https://codeforces.com/contest/2275/problem/H) | Unrated | [C++17 (GCC 7-32)](https://github.com/munafmd9849/Codeforces/blob/HEAD/2275/H%20-%20A%20Problem%20to%20Warm%20Up%20the%20Eyebrows/solution.cpp) |
 
 ---
 
